@@ -49,7 +49,7 @@ On the right side of the page are additional tools that you can use:
   <tr>
     <td valign="top"> Peers & Users dynamic statistics </td>
     <td valign="top"> Graph that shows the comparison of total peers </br> and users per month. Hover over the </br> bars to view the actual values. </td>
-    <td valign="top"> <img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20StatisticsDynamic.png" /> </td>
+    <td> <img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20StatisticsDynamic.png" /> </td>
   </tr>
 </table>    
 </p>
