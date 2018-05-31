@@ -10,11 +10,9 @@ The dynamic globe represents real-time distribution of peers and users around th
 <p> Here’s how you use the globe: </p>
 <ul>
   <li> Highlight an area of land to display the name of the country. </li>
-  <li> To turn the globe, double-click anywhere on it. Drag the pointer to your desired location, and then release.</li>
+  <li> To turn the globe, double-click anywhere on it. Drag the pointer from left to right or top to bottom, until you find your desired location, and then release.</li>
 </ul>
-</br>
-</br>
-<p> On the top left corner of the page, the switch panel enables you to control the visibility of users and peers. </p>
+<p> On the top left corner of the page, the switch panel enables you to control the visibility of users and peers on the globe. </p>
 <ul>
   <img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20UsersSwitch.png" align="right" />
   <li> <b> Users switch </b> - Toggle the switch to display or hide the density of users per country. Colors indicate relative differences in density, as follows: 
