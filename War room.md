@@ -23,7 +23,7 @@ The dynamic globe represents real-time distribution of peers and users around th
     </ul>
   </li>
   <img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20PeersSwitch.png" align="right" />
-  <li> <b> Peers switch </b> - Toggle either of the switches to display or hide the Peers within each country: Online (in green points and blinking) or Offline (in red points). </li>
+  <li> <b> Peers switch </b> - Toggle either of the switches to display or hide the peers within each country: Online (in green points and blinking) or Offline (in red points). </li>
  </ul>
  
 ### Menu
