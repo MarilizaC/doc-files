@@ -21,7 +21,7 @@ The dynamic globe represents real-time distribution of peers and users around th
     <ul>
       <li> Red - high </li>
       <li> Light blue/gray - medium </li>
-      <li>Dark blue/gray - low </li>
+      <li> Dark blue/gray - low </li>
     </ul>
   </li>
   <img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20PeersSwitch.png" align="right" />
@@ -54,7 +54,8 @@ On the right side of the page are additional tools that you can use:
 </table>    
 </p>
 </ul>
-  <img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20OtherIcons.png" align="right" />
+
+<img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20OtherIcons.png" align="right" />
 <p>
 <ul>
   <li> <b> Top 10 </b> - Displays the top countries, invites, products, peer sellers, and peer buyers. </li>
