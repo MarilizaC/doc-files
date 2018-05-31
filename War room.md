@@ -43,7 +43,7 @@ On the right side of the page are additional tools that you can use:
   </tr>
   <tr>
     <td valign="top"> AppScale statistics </td>
-    <td valign="top"> Number of AppScale templates on clusters, containers, </br> and peers </td>
+    <td valign="top"> Number of AppScale templates on clusters, containers, and peers </td>
     <td valign="top"> <img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20StatisticsPrices.png" /> </td>
   </tr>
   <tr>
