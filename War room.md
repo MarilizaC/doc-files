@@ -59,7 +59,7 @@ On the right side of the page are additional tools that you can use:
 <ul>
   <li> <b> Top 10 </b> - Displays the top countries, invites, products, peer sellers, and peer buyers. </li>
   <li> <b> Features </b> - Displays the suggested features to which you can also comment and rate. </br> 
-  If you have an idea about a feature, a functionality, or product, which you believe can help improve the Bazaar experience, you can suggest a feature by clicking Add. On the popup, enter the feature name or title and then provide a brief description. </li>
+  If you have an idea about a feature, a functionality, or product, which you believe can help improve the Bazaar experience, you can tell us about it. Click Add to display the popup where you can enter the feature name or title and then provide a brief description. </li>
   <li> <b> Rate us </b> - If you have comments and feedback, we invite you to enter them, and then give us your rating. </li> 
 </ul>
 </p>
