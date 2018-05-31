@@ -38,17 +38,17 @@ On the right side of the page are additional tools that you can use:
 <table>
   <tr>
     <td valign="top"> Actual market prices </td>
-    <td valign="top" width="50%"> Hourly price, in GoodWill, per container size, that is charged when using a peer’s resources. Beside each price is an arrow that indicates its increase or decrease compared to the previous value. </td>
+    <td valign="top" width="45%"> Hourly price, in GoodWill, per container size, that is charged when using a peer’s resources. Beside each price is an arrow that indicates its increase or decrease compared to the previous value. </td>
     <td valign="top"> <img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20StatisticsPrices.png" /> </td>
   </tr>
   <tr>
     <td valign="top"> AppScale statistics </td>
-    <td valign="top" width="50%"> Number of AppScale templates on clusters, containers, and peers </td>
+    <td valign="top" width="45%"> Number of AppScale templates on clusters, containers, and peers </td>
     <td valign="top"> <img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20StatisticsPrices.png" /> </td>
   </tr>
   <tr>
     <td valign="top"> Peers & Users dynamic statistics </td>
-    <td valign="top" width="50%"> Graph that shows the comparison of total peers and users per month. Hover over the bars to view the actual values. </td>
+    <td valign="top" width="45%"> Graph that shows the comparison of total peers and users per month. Hover over the bars to view the actual values. </td>
     <td> <img src="https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20StatisticsDynamic.png" /> </td>
   </tr>
 </table>    
