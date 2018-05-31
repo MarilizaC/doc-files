@@ -5,10 +5,9 @@ Before you start, download the required software from their respective websites:
 - Debian Stretch - 9.x
 - Vagrant - 2.0.1 or higher
 - VirtualBox - 5.0.1 or higher
-    ---
+
     :small_red_triangle: _Important:_ Do not use package managers to avoid installing versions that might be out of date.
     
-    ---
 With both software installed, you can start creating a Subutai peer VM on Debian Stretch:
 
 1. Create an initial Vagrantfile (minimal Vagrantfile, in this case) on the Debian Stretch box:
