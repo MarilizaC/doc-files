@@ -2,7 +2,7 @@
 The easiest and quickest way to get a Subutai peer running on any platform is to use Vagrant with VirtualBox. Learn how to do a basic setup on Debian Stretch by following the instructions in this guide. 
 
 ## Before you start
-Before you start, download the required software from their respective websites:
+Download the required software from their respective websites:
 - Debian Stretch - 9.x
 - Vagrant - 2.0.1 or higher
 - VirtualBox - 5.0.1 or higher
@@ -10,7 +10,7 @@ Before you start, download the required software from their respective websites:
     :small_red_triangle: **```Important```** | Do not use package managers to avoid installing versions that might be out of date. 
     
 ## Install and run Subutai PeerOS
-With both software installed, you can start creating a Subutai peer VM on Debian Stretch:
+With all the prerequisites installed and set up, you can start creating a Subutai peer VM on Debian Stretch:
 
 1. Create an initial Vagrantfile (minimal Vagrantfile, in this case) on the Debian Stretch box:
     ```
