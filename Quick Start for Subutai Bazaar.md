@@ -5,7 +5,8 @@ This guide contains the initial procedures for setting up a Subutai Bazaar accou
 Ready to join and experience the Bazaar? Follow the steps below to register and set up your Bazaar account:
 
 1. To access Subutai Bazaar, go to https://bazaar.subutai.io.
-2. Enter your email address on the Sign up tab.
+2. Enter your email address on the Sign up tab. 
+
    You will receive an email with the confirmation link.
 3. Confirm your registration by clicking the email link.
 4. On the Sign up form, enter your username, full name, and password, and then click Save.
@@ -20,20 +21,21 @@ To install the E2E browser plugin:
    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/subutai-e2e-plugin/)
    - [Chrome](https://chrome.google.com/webstore/detail/subutai-e2e-plugin/ffddnlbamkjlbngpekmdpnoccckapcnh)
    - For other supported browsers, go to [E2E Browser Plugins](https://github.com/subutai-io/browser-plugins)
-After adding the plugin, you will be prompted to generate the key.
+   After adding the plugin, you will be prompted to generate the key.
 2. On the Generate key popup, enter your email address, and then click Generate.
 3. On the plugin page, click the  icon to access the key.
 4. In the Fingerprint field, copy the entire key.
-If you are not logged in to Subutai Bazaar, you can do so now to set up the key.
+
+   If you are not logged in to Subutai Bazaar, you can do so now to set up the key.
 5. On the Bazaar page, click your account name located at the upper right corner.
 
-This displays the Account settings popup. 
+   This displays the Account settings popup. 
 
-:pencil: **``Note``** | In case you have the Set PGP key message displayed, click the link to access Account settings.
+   :pencil: **``Note``** | In case you have the Set PGP key message displayed, click the link to access Account settings.
 6. On Account settings, paste the PGP key in the PGP Key fingerprint field, and then click Upload.
 7. Click Save. 
 
-:pencil: **``Note``** | If you encounter an error when entering or saving this key, you can delete it from the plugin page, and then generate a new key. You only need one PGP key for your Bazaar account.
+   :pencil: **``Note``** | If you encounter an error when entering or saving this key, you can delete it from the plugin page, and then generate a new key. You only need one PGP key for your Bazaar account.
    
 Once you get authenticated, you can now start setting up cloud environments, using blueprints, or sharing your projects with other users or within groups. Get more information to learn about the blueprints, find out how to get involved, or earn GoodWill:
   - [Blueprints](https://github.com/subutai-blueprints/hackathon/wiki/Using-Subutai-Blueprints)
