@@ -9,7 +9,7 @@ Ready to join and experience the Bazaar? Follow the steps below to register and 
    You will receive an email with the confirmation link.
 3. Confirm your registration by clicking the email link.
 4. On the Sign up form, enter your username, full name, and password, and then click Save.
-   Once logged in, go ahead and take the tour or explore Bazaar on your own. On certain pages, when asked to set up your PGP key, you have to do so for authentication purposes. For procedures on authentication, see [Installing the E2E plugin](#install-the-e2e-browser-plugin).
+Once logged in, go ahead and take the tour or explore Bazaar on your own. On certain pages, when asked to set up your PGP key, you have to do so for authentication purposes. For procedures on authentication, see [Installing the E2E plugin](#install-the-e2e-browser-plugin).
    
 ## Install the E2E browser plugin
 In Bazaar, when asked to set up a PGP key, you may set up one manually or use the E2E browser plugin. The plugin helps you generate PGP keys, manage them, and keep them secure. For more information about the plugin, see [E2E Plugin](https://docs.subutai.io/Products/Bazaar/27_E2E_plugin.html).
