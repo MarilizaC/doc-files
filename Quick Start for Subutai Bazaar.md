@@ -25,7 +25,7 @@ To install the E2E browser plugin:
 4. In the Fingerprint field, copy the entire key.
    If you are not logged in to Subutai Bazaar, you can do so now to set up the key.
 5. On the Bazaar page, click your account name located at the upper right corner.
-   This displays the Account settings popup. 
+This displays the Account settings popup. 
 :pencil: **``Note``** | In case you have the Set PGP key message displayed, click the link to access Account settings.
 6. On Account settings, paste the PGP key in the PGP Key fingerprint field, and then click Upload.
 7. Click Save. 
