@@ -21,11 +21,12 @@ To install the E2E browser plugin:
    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/subutai-e2e-plugin/)
    - [Chrome](https://chrome.google.com/webstore/detail/subutai-e2e-plugin/ffddnlbamkjlbngpekmdpnoccckapcnh)
    - For other supported browsers, go to [E2E Browser Plugins](https://github.com/subutai-io/browser-plugins)
+   
    After adding the plugin, you will be prompted to generate the key.
 2. On the Generate key popup, enter your email address, and then click Generate.
 
    ![Generate popup](https://github.com/MarilizaC/icons/blob/master/InstallE2E%20-%20Generate.png)
-3. On the plugin page, click the ![Info icon](https://github.com/MarilizaC/icons/blob/master/InstallE2E%20-%20icon.png)  icon to access the key.
+3. On the plugin page, click the ![Info icon](https://github.com/MarilizaC/icons/blob/master/InstallE2E%20-%20icon.png) icon to access the key.
 4. In the Fingerprint field, copy the entire key.
 
    If you are not logged in to Subutai Bazaar, you can do so now to set up the key.
