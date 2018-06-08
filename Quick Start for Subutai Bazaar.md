@@ -26,10 +26,10 @@ To install the E2E browser plugin:
    If you are not logged in to Subutai Bazaar, you can do so now to set up the key.
 5. On the Bazaar page, click your account name located at the upper right corner.
    This displays the Account settings popup. 
-   **``Note``** | In case you have the Set PGP key message displayed, click the link to access Account settings.
+:pencil: **``Note``** | In case you have the Set PGP key message displayed, click the link to access Account settings.
 6. On Account settings, paste the PGP key in the PGP Key fingerprint field, and then click Upload.
 7. Click Save. 
-   **``Note``** | If you encounter an error when entering or saving this key, you can delete it from the plugin page, and then generate a new key. You only need one PGP key for your Bazaar account.
+:pencil: **``Note``** | If you encounter an error when entering or saving this key, you can delete it from the plugin page, and then generate a new key. You only need one PGP key for your Bazaar account.
    
 Once you get authenticated, you can now start setting up cloud environments, using blueprints, or sharing your projects with other users or within groups. Get more information to learn about the blueprints, find out how to get involved, or earn GoodWill:
   - [Blueprints](https://github.com/subutai-blueprints/hackathon/wiki/Using-Subutai-Blueprints)
