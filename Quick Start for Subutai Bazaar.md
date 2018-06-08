@@ -11,7 +11,7 @@ Ready to join and experience the Bazaar? Follow the steps below to register and 
 3. Confirm your registration by clicking the email link.
 4. On the Sign up form, enter your username, full name, and password, and then click Save.
 
-   Once logged in, go ahead and take the tour or explore Bazaar on your own. On certain pages, when asked to set up your PGP key, you have to do so for authentication purposes. For procedures on authentication, see [Installing the E2E plugin](#install-the-e2e-browser-plugin).
+   Once logged in, take the tour or explore Bazaar on your own. On certain pages, when asked to set up your PGP key, you have to do so for authentication purposes. For procedures on authentication, see [Installing the E2E plugin](#install-the-e2e-browser-plugin).
    
 ## Install the E2E browser plugin
 In Bazaar, when asked to set up a PGP key, you may set up one manually or use the E2E browser plugin. The plugin helps you generate PGP keys, manage them, and keep them secure. For more information about the plugin, see [E2E Plugin](https://docs.subutai.io/Products/Bazaar/27_E2E_plugin.html).
@@ -37,7 +37,7 @@ To install the E2E browser plugin:
 
    :pencil: **``Note``** | If you encounter an error when entering or saving this key, you can delete it from the plugin page, and then generate a new key. You only need one PGP key for your Bazaar account.
    
-Once you get authenticated, you can now start setting up cloud environments, using blueprints, or sharing your projects with other users or within groups. Get more information to learn about the blueprints, find out how to get involved, or earn GoodWill:
+Once you get authenticated, you can now start setting up cloud environments, using blueprints, or sharing your projects with other users or within groups. Get more information about the blueprints, find out how to get involved, or earn GoodWill:
   - [Blueprints](https://github.com/subutai-blueprints/hackathon/wiki/Using-Subutai-Blueprints)
   - [Get Involved](https://subutai.io/getting-involved.html)
   - [GoodWill](https://subutai.io/goodwill.html)
