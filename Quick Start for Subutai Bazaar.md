@@ -37,7 +37,8 @@ To install the E2E browser plugin:
    :pencil: **``Note``** | In case you have the Set PGP key message displayed, click the link to access Account settings.
 6. On Account settings, paste the PGP key in the PGP Key fingerprint field, and then click **Upload**.
    ![Fingerprint](https://github.com/MarilizaC/icons/blob/master/InstallE2E%20-%20Upload.png)
-      The Owner PGP Key field is populated automatically. You must not edit or modify this field.
+   
+   The Owner PGP Key field is populated automatically. You must not edit or modify this field.
 7. Click **Save**. 
 
    :pencil: **``Note``** | If you encounter an error when entering or saving this key, you can delete it from the plugin page, and then generate a new key. You only need one PGP key for your Bazaar account.
