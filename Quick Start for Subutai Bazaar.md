@@ -38,6 +38,7 @@ To install the E2E browser plugin:
 6. On Account settings, paste the PGP key in the PGP Key fingerprint field, and then click **Upload**.
 
    ![Fingerprint](https://github.com/MarilizaC/icons/blob/master/InstallE2E%20-%20Upload.png)
+   
    The Owner PGP Key field is populated automatically. You must not edit or modify this field.
 7. Click **Save**. 
 
