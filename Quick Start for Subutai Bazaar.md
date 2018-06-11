@@ -9,7 +9,7 @@ Ready to join and experience the Bazaar? Follow the steps below to register and 
 
    You will receive an email with the confirmation link.
 3. Confirm your registration by clicking the email link.
-4. On the Sign up form, enter your username, full name, and password, and then click Save.
+4. On the Sign up form, enter your username, full name, and password, and then click **Save**.
 
    Once logged in, take the tour or explore Bazaar on your own. On certain pages, when asked to set up your PGP key, you have to do so for authentication purposes. For procedures on authentication, see [Installing the E2E plugin](#install-the-e2e-browser-plugin).
    
@@ -23,7 +23,7 @@ To install the E2E browser plugin:
    - For other supported browsers, go to [E2E Browser Plugins](https://github.com/subutai-io/browser-plugins)
    
    After adding the plugin, you will be prompted to generate the key.
-2. On the Generate key popup, enter your email address, and then click Generate.
+2. On the Generate key popup, enter your email address, and then click **Generate**.
 
    ![Generate popup](https://github.com/MarilizaC/icons/blob/master/InstallE2E%20-%20Generate.png)
 3. On the plugin page, click the ![Info icon](https://github.com/MarilizaC/icons/blob/master/InstallE2E%20-%20icon.png) icon to access the key.
@@ -35,10 +35,11 @@ To install the E2E browser plugin:
    This displays the Account settings popup. 
 
    :pencil: **``Note``** | In case you have the Set PGP key message displayed, click the link to access Account settings.
-6. On Account settings, paste the PGP key in the PGP Key fingerprint field, and then click Upload.
+6. On Account settings, paste the PGP key in the PGP Key fingerprint field, and then click **Upload**.
 
    ![Fingerprint](https://github.com/MarilizaC/icons/blob/master/InstallE2E%20-%20Upload.png)
-7. Click Save. 
+   The Owner PGP Key field is populated automatically. You must not edit or modify this field.
+7. Click **Save**. 
 
    :pencil: **``Note``** | If you encounter an error when entering or saving this key, you can delete it from the plugin page, and then generate a new key. You only need one PGP key for your Bazaar account.
    
