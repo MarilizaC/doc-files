@@ -1,5 +1,5 @@
 # Quick Start for Subutai Bazaar
-This guide contains the initial procedures for setting up a Subutai Bazaar account. If you need more information about the Bazaar, see [Subutai Bazaar](https://subutai.io/bazaar.html).
+This guide contains the initial procedures for setting up a Subutai Bazaar account. If you need information about the Bazaar and its features, see [Subutai Bazaar](https://subutai.io/bazaar.html).
 
 ## Create a Subutai Bazaar account
 Ready to join and experience the Bazaar? Follow the steps below to register and set up your Bazaar account:
