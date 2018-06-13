@@ -23,6 +23,7 @@ Containers are assigned to templates starting from the top left, in a clockwise 
 
     You can monitor the progress through the status bar at the top of the page. 
     ![Status](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvContainer.png)
+    
     When the build reaches the Ready stage, the state changes from **Under Modification** to **Healthy**.
     Congratulations! You have successfully created your environment.
     
