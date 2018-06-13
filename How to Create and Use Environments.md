@@ -2,7 +2,7 @@
 
 An environment needs at least one active peer on which to run. You can lease or rent another user’s peer or you can use your own peer. 
 
-The following instructions show you how to create an environment from the Subutai Bazaar. Be sure that you are logged in to the Bazaar with your account credentials, and with the PGP key configured in the Account settings. To do so, use the E2E Plugin for your specific browser. For more information about this plugin, see the companion software section at [Getting Started](https://subutai.io/getting-started.html#E2E).
+The instructions in this guide show you how to create an environment from the Subutai Bazaar. Prior to creating an environment, be sure that you are logged in to the Bazaar with your account credentials, and with the PGP key configured in the Account settings. To help manage your keys, you may use the E2E Plugin for your specific browser. For more information about this plugin, see the companion software section at [Getting Started](https://subutai.io/getting-started.html#E2E).
 
 To create an environment:
 1. On the Environment page, click **Create Environment**.
