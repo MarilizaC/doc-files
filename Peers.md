@@ -5,7 +5,7 @@ A peer is a single Subutai node with management services (management host contai
 On the Peers page, view the list of existing peers that you can set up in your environment. To view your own peers, click My Peers to display the list on the User details side of the Bazaar. 
 
 ### Search for peers
-Use the Search tool to look for a peer by its partial or full name. You can also use the filters at the top of the page to narrow down the list of peers.
+Use the Search tool on the Peers page to look for a peer by its partial or full name. You can also use the filters at the top of the page to narrow down the list of peers.
 
 ![Peers Filter](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20PeersFilter.png)
 - **Country** - Select from the list of countries where available peers are located.
@@ -22,7 +22,7 @@ Other search options include the following:
 After selecting or entering your filtering criteria, click Search to apply them to the list.
 
 ### Add peers to your Favorites list
-From the list, select each peer by clicking Add to Favorites. Take note of the following key points when adding peers:
+From the list on the Peers page, select each peer by clicking Add to Favorites. Take note of the following key points when adding peers:
 - Before adding a peer, review its details to verify that it suits your requirements. Details tagged with the ![Info icon](https://github.com/MarilizaC/icons/blob/master/Icon%20-%20Info.png) icon, including price and CPU, display more information when you hover over the them.
 - You can add offline peers to your list, however, you cannot use them for your environments and applications until they become online or active.
 - When adding **Free** peers, be aware that they can be changed to **Paid** by the owner, and vice versa.
