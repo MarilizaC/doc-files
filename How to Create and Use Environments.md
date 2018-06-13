@@ -28,13 +28,13 @@ Containers are assigned to templates starting from the top left, in a clockwise 
     Congratulations! You have successfully created your environment.
     
 ### Keep Going! 
-You can further customize the environment to suit your requirements. If, for example, you want to access the container using a domain name, configure the settings on the Container Port Mapping tab. On this tab, click Add New Port to display the popup where you can select or enter the following details, depending on your setup: Protocol, Port (Internal or External), Domain, Proxy peer, and Containers. Do not forget to save your settings. 
+You can further customize the environment to suit your requirements. If, for example, you want to access the container using a domain name, configure the settings on the Container Port Mapping tab. On this tab, click **Add New Port** to display the popup where you can select or enter the following details, depending on your setup: Protocol, Port (Internal or External), Domain, Proxy peer, and Containers. Do not forget to save your settings. 
 
 The settings for the container and its mapping state are displayed in the table, as shown in the screenshot below. 
 
 ![Container](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvContainer.png)
 
-When you click the domain name, you will be redirected to the container’s site (Apache, in this example).
+When you click the domain name link, you will be redirected to the container’s site (Apache, in this example).
 
 ![Sample](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvSample.png)
 
@@ -47,11 +47,11 @@ You can to access the environment straight from your desktop, in four steps.
 
 ![Control Center SSH](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvSSHKey.png)
 
-*Third*, go to Environment from the menu, and then click the environment to open it.
+*Third*, go to Environment from the menu, and then click the environment name to open it.
 
 ![Control Center Environment](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvCCStatus.png)
 
-*Fourth*, under Remote Access, click SSH to open a terminal and access your container, such as in the screenshot below.
+*Fourth*, under Remote Access, click **SSH** to open a terminal and access your container, such as in the screenshot below.
 
 ![Control Center Shell](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvCCShell.png)
 
