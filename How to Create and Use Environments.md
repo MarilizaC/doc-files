@@ -30,8 +30,11 @@ Containers are assigned to templates starting from the top left, in a clockwise 
 You can further customize the environment to suit your requirements. If, for example, you want to access the container using a domain name, configure the settings on the Container Port Mapping tab. On this tab, click Add New Port to display the popup where you can select or enter the following details, depending on your setup: Protocol, Port (Internal or External), Domain, Proxy peer, and Containers. Do not forget to save your settings. 
 
 The settings for the container and its mapping state are displayed in the table, as shown in the screenshot below. 
+
 ![Container](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvContainer.png)
+
 When you click the domain name, you will be redirected to the container’s site (Apache, in this example).
+
 ![Sample](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvSample.png)
 
 ### What’s Next? 
