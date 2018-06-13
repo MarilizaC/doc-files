@@ -9,10 +9,12 @@ To create an environment:
 2. On the Select Peers screen, check the box for the peer that suits your environment, and then click Next.
 
   :bulb: **``Tip``** | If none of the peers are suitable, click the “search for other peers” link to select one from the Peers list.
+  
 3. On the Select Templates screen, select one from the Templates list on the right side.
 Containers are assigned to templates starting from the top left, in a clockwise direction. 
   
   :pencil: **``Note``** | If you have your own template, upload it on the CDN tool first before you can select it here. For more information, see [Subutai CDN](https://docs.subutai.io/Products/Bazaar/10_CDN.html?highlight=cdn). If you are going to install a blueprint on the environment, refer to the [Writing Subutai Blueprints](https://github.com/subutai-blueprints/hackathon/wiki/Writing-Subutai-Blueprints) article for information about using custom templates.
+  
 4. Click the + icon for each container to configure the following properties:
 - **Size** - Select the size: Tiny, Small, Medium, Huge. For information about container sizes, see [What is GoodWill](https://github.com/subutai-blueprints/hackathon/wiki/What-is-%22GoodWill%22).
 - **Name** - Enter the container name.
