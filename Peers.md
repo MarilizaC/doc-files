@@ -1,4 +1,4 @@
-# Peers ![icon](https://github.com/MarilizaC/icons/blob/master/Icon-Peers.png)
+# Peers ![Peers icon](https://github.com/MarilizaC/icons/blob/master/Icon-Peers.png)
 
 A peer is a single Subutai node with management services (management host containers) and at least one local resource host that contributes resources to be shared.
 
@@ -20,3 +20,10 @@ Other search options include the following:
 - **AppScale Installed** - Include peers that have AppScale installed.
 
 After selecting or entering your filtering criteria, click Search to apply them to the list.
+
+### Add peers to your Favorites list
+From the list, select each peer by clicking Add to Favorites. Take note of the following key points when adding peers:
+- Before adding a peer, review its details to verify that it suits your requirements. Details tagged with the ![Info icon](https://github.com/MarilizaC/icons/blob/master/Icon%20-%20Info.png) icon, including price and CPU, display more information when you hover over the them.
+- You can add offline peers to your list, however, you cannot use them for your environments and applications until they become online or active.
+- When adding **Free** peers, be aware that they can be changed to **Paid** by the owner, and vice versa.
+- You can remove a peer from your Favorites list if there is no environment, regardless of its state, associated with the peer.
