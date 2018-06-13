@@ -40,14 +40,16 @@ You can to access the environment straight from your desktop, in four steps.
 *First*, be sure to have the Subutai P2P daemon and Control Center installed and set up. These two working together provides access to your environment via SSH or Remote Desktop. To download these applications, go to the Companion software section of [Getting Started](https://subutai.io/getting-started.html#companion).
 
 *Second*, in the Control Center, deploy an SSH key to the environment by accessing SSH-keys management from the menu.
+
 [Control Center SSH](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvSSHKey.png)
 
 *Third*, go to Environment from the menu, and then click the environment to open it.
+
 [Control Center Environment](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvCCStatus.png)
 
 *Fourth*, under Remote Access, click SSH to open a terminal and access your container, such as in the screenshot below.
+
 [Control Center Shell](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvCCShell.png)
 
 For more information about the Control Center and P2P daemon, see [How to Use Control Center and P2P](https://docs.subutai.io/Products/PeerOS/06_How_to_use_Control_Center_and_P2P.html).
-
-<p align="center"> Feel free to leave your questions or comments in our [Slack Community](https://slack.subutai.io/). </p>
+Feel free to leave your questions or comments in our [Slack Community](https://slack.subutai.io/).
