@@ -51,7 +51,7 @@ You can to access the environment straight from your desktop, in four steps.
 
 ![Control Center Environment](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvCCStatus.png)
 
-*Fourth*, under Remote Access, click **SSH** to open a terminal and access your container, such as in the screenshot below.
+*Fourth*, under Remote Access, click **SSH** to open a terminal and access your container such as in the screenshot below.
 
 ![Control Center Shell](https://github.com/MarilizaC/icons/blob/master/Screenshot%20-%20EnvCCShell.png)
 
