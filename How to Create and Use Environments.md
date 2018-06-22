@@ -11,7 +11,7 @@ To create an environment:
    :bulb: **``Tip``** | If none of the peers are suitable, click the “Search for other peers” link to select one from the Peers list.
   
 3. On the Select Templates screen, select one from the Templates list on the right side.
-Containers are assigned to templates starting from the top left, in a clockwise direction. 
+   Containers are assigned to templates starting from the top left, in a clockwise direction. 
 
    :pencil: **``Note``** | If you have your own template, upload it to the CDN tool first before you can select it here. For more information, see [Subutai CDN](https://docs.subutai.io/Products/Bazaar/10_CDN.html?highlight=cdn). If you are going to install a blueprint on the environment, refer to the [Writing Subutai Blueprints](https://github.com/subutai-blueprints/hackathon/wiki/Writing-Subutai-Blueprints) article for information about using custom templates.
   
