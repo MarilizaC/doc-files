@@ -16,7 +16,8 @@ Containers are assigned to templates starting from the top left, in a clockwise 
    :pencil: **``Note``** | If you have your own template, upload it to the CDN tool first before you can select it here. For more information, see [Subutai CDN](https://docs.subutai.io/Products/Bazaar/10_CDN.html?highlight=cdn). If you are going to install a blueprint on the environment, refer to the [Writing Subutai Blueprints](https://github.com/subutai-blueprints/hackathon/wiki/Writing-Subutai-Blueprints) article for information about using custom templates.
   
 4. Click the **+** icon for each container to configure the following properties:
-    - **Size** - Select the size: Tiny, Small, Medium, Huge. For information about container sizes, see [What is GoodWill](https://github.com/subutai-blueprints/hackathon/wiki/What-is-%22GoodWill%22).
+    - **Size** - Select the size: Tiny, Small, Medium, Huge. 
+For information about container sizes, see [What is GoodWill](https://github.com/subutai-blueprints/hackathon/wiki/What-is-%22GoodWill%22).
     - **Name** - Enter the container name.
 5. Click **Save** to close the container properties, and then click **Apply**.
 6. On the Save Environment popup, enter the name of the environment, and then click **Build**.
