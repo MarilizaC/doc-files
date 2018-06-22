@@ -8,7 +8,7 @@ To create an environment:
 1. On the Environment page, click **Create Environment**.
 2. On the Select Peers screen, check the box for the peer that suits your environment, and then click **Next**.
 
-    :bulb: **``Tip``** | If none of the peers are suitable, click the “Search for other peers” link to select one from the Peers list.
+    ``:bulb: **Tip**`` | If none of the peers are suitable, click the “Search for other peers” link to select one from the Peers list.
   
 3. On the Select Templates screen, select one from the Templates list on the right side.
 Containers are assigned to templates starting from the top left, in a clockwise direction. 
