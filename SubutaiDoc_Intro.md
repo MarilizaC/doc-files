@@ -19,13 +19,13 @@ Here you can find the instructions and guidelines on installing, running, and ma
   
   <table> 
   <tr align="center" valign="top">
-    <td><b>Using PeerOS</b> 
+    <td><b>Using PeerOS</b> </br>
      <p><img src="https://github.com/MarilizaC/doc-files/blob/master/icon_peerOS.png"></img> 
      </br>Open source, </br> container-based </br> P2P cloud and </br> IoT software</p></td>
-    <td><b>Using Bazaar</b> 
+    <td><b>Using Bazaar</b> </br>
      <p><img src="https://github.com/MarilizaC/doc-files/blob/master/icon_bazaar.png"></img> 
      </br>Marketplace to </br> buy/sell/exchange/barter </br> computing resources </br> and applications</p></td>
-    <td><b>Using the Blockchain Router</b> 
+    <td><b>Using the Blockchain Router</b> </br>
       <p><img src="https://github.com/MarilizaC/doc-files/blob/master/icon_brouter.png"></img> 
       </br>Broadband cloud router and </br> open hardware IoT gateway </br> that serves as a plug-and-play </br> cryptocurrency wallet </br> and mining device</p></td>  
   </tr>
