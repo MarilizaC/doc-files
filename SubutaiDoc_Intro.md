@@ -55,13 +55,13 @@ Here you can find the instructions and guidelines on installing, running, and ma
     </tr>
     <tr>
      <td><b>Control Center</b>  
-     </br>Convenient desktop application for setting up peers, components, and </br>environments, with seamless Bazaar and P2P Daemon integration. 
+     </br>Convenient desktop application for setting up peers, components, and environments, </br>with seamless Bazaar and P2P Daemon integration. 
      </br>Learn more.
      </td>
     </tr>
     <tr>    
      <td><b>Management Console</b>  
-     </br>The application for peer administration, with additional functionality for </br>peer registration and creation of cloud environments. 
+     </br>The application for peer administration, with additional functionality for peer registration </br>and creation of cloud environments. 
      </br>Learn more.  
      </td> 
     </tr>
