@@ -39,6 +39,7 @@ Here you can find the instructions and guidelines on installing, running, and ma
 
 - **Using the Subutai Components**  
  Aside from the products, learn about the software components that enable easy integration, management, and access to Subutai’s   features.  
+ 
   ![](https://github.com/MarilizaC/doc-files/blob/master/icon_e2e.png) **E2E Plugin**  
     Facilitates working with peers by handling PGP key generation and management of PGP-based authentication and encryption. Learn more.  
   + **P2P Daemon**  
