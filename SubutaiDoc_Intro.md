@@ -40,10 +40,9 @@ Here you can find the instructions and guidelines on installing, running, and ma
 - **Using the Subutai Components**  
  Aside from the products, learn about the software components that enable easy integration, management, and access to Subutai’s   features. 
  
-  <table width="75%"> 
+  <table width=500> 
   <tr valign="top">
-    <td><b>E2E Plugin</b> 
-     <p></br><img src=></img> 
+    <td><b>E2E Plugin</b>  
      </br>Facilitates working with peers by handling PGP key generation and management of PGP-based authentication and encryption. Learn more.</p>
     </td>
     <td><b>P2P Daemon</b>  
