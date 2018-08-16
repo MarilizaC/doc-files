@@ -43,7 +43,7 @@ Here you can find the instructions and guidelines on installing, running, and ma
   <table> 
   <tr>
     <td><b>E2E Plugin</b>  
-     </br>Facilitates working with peers by handling PGP key generation and </br>management of PGP-based authentication and encryption. 
+     </br>Facilitates working with peers by handling PGP key generation and management </br>of PGP-based authentication and encryption. 
      </br>Learn more.
     </td>
    </tr>
@@ -61,7 +61,7 @@ Here you can find the instructions and guidelines on installing, running, and ma
     </tr>
     <tr>    
      <td><b>Management Console</b>  
-     </br>The application for peer administration, with additional functionality </br>for peer registration and creation of cloud environments. 
+     </br>The application for peer administration, with additional functionality for </br>peer registration and creation of cloud environments. 
      </br>Learn more.  
      </td> 
     </tr>
