@@ -21,7 +21,7 @@ Here you can find the instructions and guidelines on installing, running, and ma
   <tr align="center" valign="top">
     <td><b>Using PeerOS</b> 
      <p></br><img src="https://github.com/MarilizaC/doc-files/blob/master/icon_peerOS.png"></img> 
-     </br>Open source, </br> container-based </br> P2P cloud and </br> IoT software</p>
+     </br>Open source, container-based </br> peer-to-peer (P2P) cloud </br> and Internet of Things (IoT) </br> software</p>
     </td>
     <td><b>Using Bazaar</b>
      <p></br><img src="https://github.com/MarilizaC/doc-files/blob/master/icon_bazaar.png"></img> 
