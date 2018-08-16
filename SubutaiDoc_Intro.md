@@ -44,6 +44,3 @@ Here you can find the instructions and guidelines on installing, running, and ma
   - **P2P Daemon** - program that runs in the background to handle intra-environment  connectivity and communication between containers, primarily enabling peers to join the swarm. Learn more.
   - **Control Center** - convenient desktop application for setting up peers, components, and environments, with seamless Bazaar and P2P Daemon integration. Learn more.
   - **Management Console** - the application for peer administration, with additional functionality for peer registration and creation of cloud environments. Learn more.
-
-
-
