@@ -41,21 +41,21 @@ Here you can find the instructions and guidelines on installing, running, and ma
  Aside from the products, learn about the software components that enable easy integration, management, and access to Subutai’s   features. 
  
   <table> 
-  <tr width="50%"; valign="top">
-    <td><b>E2E Plugin</b> 
+  <tr valign="top">
+    <td width="35%"><b>E2E Plugin</b> 
      <p></br><img src=></img> 
      </br>Facilitates working with peers by handling PGP key generation and management of PGP-based authentication and encryption. Learn more.</p>
     </td>
-    <td><b>P2P Daemon</b>  
+    <td width="35%"><b>P2P Daemon</b>  
      </br>Program that runs in the background to handle intra-environment  connectivity and communication between containers, primarily enabling peers to join the swarm. Learn more.
     </td>
     </tr>
-    <tr width="50%"; valign="top">
-    <td><b>Control Center</b>  
+    <tr valign="top">
+    <td width="35%"><b>Control Center</b>  
     </br>Convenient desktop application for setting up peers, components, and environments, with seamless Bazaar and P2P Daemon integration. Learn more.
     </td>
     </td>
-    <td><b>Management Console</b>  
+    <td width="35%"><b>Management Console</b>  
     </br>The application for peer administration, with additional functionality for peer registration and creation of cloud environments. Learn more.  
     </td> 
     </tr>
