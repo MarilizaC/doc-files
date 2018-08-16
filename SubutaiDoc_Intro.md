@@ -10,4 +10,6 @@
   - Get Support
 
 ## About this Subutai Documentation
-Welcome! This is the end user documentation for Subutai, the world’s first intelligent P2P cloud computing platform.
+<p align="center"> <i>Welcome! This is the end user documentation for Subutai, </br>the world’s first intelligent P2P cloud computing platform. </i> </p>
+Here you can find the instructions and guidelines on installing, running, and making the best possible use of the Subutai products and components.
+
