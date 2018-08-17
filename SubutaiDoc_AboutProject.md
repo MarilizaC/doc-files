@@ -12,7 +12,7 @@ Check out the various ways of getting involved with the project:
 - **Join the Community**
 
 ### Contribute to the Subutai Cloud
-There are many ways to contribute to the Subutai crowd cloud or, shall we say, many ways to join the horde!  
+<p align="center"><i>There are many ways to contribute to the Subutai crowd cloud or, </br> shall we say, many ways to join the horde! </i></p> 
 
 **Start using Subutai.** Use Subutai to start renting or sharing your computing resources. With PeerOS, you can create peers and fire them up using Subutai Vagrant boxes. Once up and running, register them with Bazaar where other users and renters can select them according to their requirements.   
 For renters or users, you can increase your computing power, choose from the available peers, and start installing the applications that you need. Several open source applications can be readily installed and set up in no time. If you want, you can also host them on your own peer to gain access online from anywhere. This alone will feel empowering.  
