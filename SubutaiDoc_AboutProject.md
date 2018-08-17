@@ -6,7 +6,7 @@ In 2013, OptDyn was founded to start the Subutai open source project, which aime
 
 The Subutai software and Subutai Router hardware are both 100% free and open, both being licensed under the business friendly Apache Software License v2.0. 
 
-Check out the various ways of getting involved in the Subutai Open Source Project:
+Check out the various ways of getting involved in the project:
 - **Contribute to the Subutai Cloud**
 - **Earn GoodWill**
 - **Join the Community**
