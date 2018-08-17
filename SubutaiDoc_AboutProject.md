@@ -20,7 +20,7 @@ For renters or users, you can increase your computing power, choose from the ava
 
 **Give feedback.** We welcome your feedback! Tell us how we can improve the user experience for everyone. Your helpful feedback, suggestions, and comments are extremely valuable to us.  
 
-<img align="left" src="https://github.com/MarilizaC/doc-files/blob/master/subutai_globe.png"> Plus, we want to light up that globe at [Subutai Bazaar](https://bazaar.subutai.io/login). With peers all around the world, the power of the P2P cloud community increases. Connect with us on [Subutai Slack](https://slack.subutai.io) to contribute or discuss your ideas.</p> 
+<img align="left" src="https://github.com/MarilizaC/doc-files/blob/master/subutai_globe.png"> Plus, we want to light up that globe at [Subutai Bazaar](https://bazaar.subutai.io/login). With peers all around the world, the power of the P2P cloud community increases. </p> 
 
 Connect with us on [Subutai Slack](https://slack.subutai.io) to contribute or discuss your ideas.
 
