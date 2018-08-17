@@ -36,7 +36,7 @@ Here you can find the instructions and guidelines on installing, running, and ma
   </tr>
   </table>
   
-  **Get Started**  
+- **Get Started**  
   Your quick guide to setting up the Subutai products and components.
 
 - **Using the Subutai Components**  
