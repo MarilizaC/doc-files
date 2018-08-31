@@ -40,9 +40,11 @@ Take a look at this diagram for an overview of the various ways of earning GoodW
 <insert Earning GW infog> For more details, see [Helping Spread GoodWill](https://subutai.io/subutai-foss.html).
 
 ### Join the Community
-Join our social media channels to get updates on the latest release, news, and activities:
-
-<insert channel links>
+Join our social media channels to get updates on the latest release, news, and activities:  
+\* [Twitter](https://twitter.com/Subutai_KHAN)
+\* [Reddit](https://www.reddit.com/r/SubutaiKHAN/)
+\* [LinkedIn](https://www.linkedin.com/company/subutai-social-cloud/)
+\* [Facebook](https://www.facebook.com/SubutaiKHAN/)
 
 
 
