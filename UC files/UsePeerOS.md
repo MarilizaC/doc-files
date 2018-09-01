@@ -31,4 +31,5 @@ Depending on your user level and requirements, choose one of two ways to get sta
     <td>:small_red_triangle_down:  
        <p><a href=""><b>Advanced Install</b></a></p>
     </td>
+ </tr>
 </table>
