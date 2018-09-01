@@ -12,7 +12,7 @@ This section contains the instructions for installing and setting up Subutai Pee
 - **Advanced PeerOS Install**
 - **Manage Peers**
 
-<a id="The-Subutai_PeerOS-An-Overview"></a> <h2>The Subutai PeerOS: An Overview</h2>
+<a id="The-Subutai_PeerOS-An-Overview"></a> <h3>The Subutai PeerOS: An Overview</h2>
 
 #### What is it
 <img align="left" src=https://github.com/MarilizaC/icons/blob/master/icon_peerOS.png> PeerOS is a multiplatform software bundle that serves as the building block of Subutai’s peer-to-peer (P2P) cloud services. As a free and open source software, it is available to anyone who wants to run peers, in a virtual environment in the cloud, that can be shared or rented out to other users. </img>
