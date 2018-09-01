@@ -20,3 +20,12 @@ This section contains the instructions for installing and setting up Subutai Pee
 #### Get started with PeerOS
 Depending on your user level and requirements, choose one of two ways to get started with PeerOS:
 
+<table>
+ <tr align="center" valign="top">
+    <td>:small_red_triangle_down:  
+      <p><a href=""><b>Quick Install</b></a></p>
+    </td>
+    <td>:small_red_triangle_down:  
+       <p><a href=""><b>Advanced Install</b></a></p>
+    </td>
+</table>
