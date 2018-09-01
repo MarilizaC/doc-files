@@ -1,7 +1,7 @@
 ## Use PeerOS
 This section contains the instructions for installing and setting up Subutai PeerOS. As beginners or advanced users, you can learn how to create and run your own peers.
 
-- [The Subutai PeerOS: An Overview](.#The-Subutai-PeerOS-An-Overview)
+- [The Subutai PeerOS: An Overview](#The-Subutai-PeerOS-An-Overview)
   - What is it?
   - How it works
   - Get Started With PeerOS
