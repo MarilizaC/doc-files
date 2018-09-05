@@ -6,12 +6,12 @@ In 2013, OptDyn was founded to start the Subutai open source project, which aime
 
 The Subutai software and Subutai Router hardware are both 100% free and open, both being licensed under the business friendly Apache Software License v2.0. 
 
-Check out the various ways of getting involved with the project:
-- **Contribute to the Subutai Cloud**
-- **Earn GoodWill**
-- **Join the Community**
+Find out the various ways of getting involved with the project:
+- <a href="ContributeToSubutaiCloud">Contribute to the Subutai Cloud</a>
+- <a href="EarnGoodWill">Earn GoodWill</a>
+- <a href="">Join the Community</a>
 
-### Contribute to the Subutai Cloud
+<a id="ContributeToSubutaiCloud"><h4> Contribute to the Subutai Cloud </h4></a>
 <p align="center"><i>There are many ways to contribute to the Subutai crowd cloud or, </br> shall we say, many ways to join the horde! </i></p> 
 
 **Start using Subutai.** Use Subutai to start renting or sharing your computing resources. With PeerOS, you can create peers and fire them up using Subutai Vagrant boxes. Once up and running, register them with Bazaar where other users and renters can select them according to their requirements.   
@@ -34,18 +34,14 @@ For developers, a Blueprint is a simple JSON based templating format. Use bluepr
 
 **Get involved.** Developers and engineers are welcome to contribute! We need Ethereum blockchain and Solidity savvy engineers, P2P researchers to help us experiment and optimize DHT and Gossip protocols. We need C/C++, Java, Javascript, Golang programmers. If you want to get involved as a developer, first *[give Subutai a try](https://subutai.io/getting-started.html)* as a user. Then, take a look at our list of *[GitHub projects](https://github.com/subutai-io/)* to get an idea of which area you could focus on. Come onto our *[Slack channel](https://slack.subutai.io)* and let us know if you need help diving in. We’re here and waiting for you! Register on the *[Subutai Bazaar](https://bazaar.subutai.io/login)*, and we’ll give you some GoodWill to trade cloud resources with others on the system.
 
-### Earn GoodWill
+<a id="EarnGoodWill"><h4> Earn GoodWill </h4></a>
 Take a look at this diagram for an overview of the various ways of earning GoodWill. 
 
 <insert Earning GW infog> For more details, see [Helping Spread GoodWill](https://subutai.io/subutai-foss.html).
 
-### Join the Community
+<a id="JoinCommunity"><h4> Join the Community </h4></a>
 Join our social media channels to get updates on the latest release, news, and activities:  
 \* [Twitter](https://twitter.com/Subutai_KHAN)
 \* [Reddit](https://www.reddit.com/r/SubutaiKHAN/)
 \* [LinkedIn](https://www.linkedin.com/company/subutai-social-cloud/)
 \* [Facebook](https://www.facebook.com/SubutaiKHAN/)
-
-
-
-
